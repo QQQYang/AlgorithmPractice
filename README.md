@@ -1,2 +1,4 @@
 # AlgorithmPractice
-recording of my algorithm practice
+Recording of my algorithm practice
+
+Language: Python
